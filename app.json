@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Instagram",
+    "icon": "./assets/logoHeader.png",
+    "slug": "Instagram",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+
+    "description": "Buddy is an online social media network where the young youth can interact with each other.",
+    "android": {
+      "package": "in.anjoy.instagram"
+    }
+  },
+  "android": {
+    "package": "in.org.instagram.app"
+  },
+  "name": "Buddy"
+}
